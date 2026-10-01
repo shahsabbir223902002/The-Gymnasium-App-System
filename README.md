@@ -178,7 +178,7 @@ The application can be further improved by adding:
 
 <!-- Add your application screenshots below -->
 
-![Gymnasium App](YOUR_IMAGE_LINK_HERE)
+![Gymnasium App](https://github.com/shahsabbir223902002/The-Gymnasium-App-System/blob/main/The%20Gymnasium%20App%20System.jpeg)
 
 ---
 
